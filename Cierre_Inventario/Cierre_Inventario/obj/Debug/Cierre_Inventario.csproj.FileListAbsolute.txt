@@ -1,0 +1,21 @@
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.csprojResolveAssemblyReference.cache
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.Properties.Resources.resources
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.csproj.GenerateResource.cache
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.csproj.CoreCompileInputs.cache
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\bin\Debug\Cierre_Inventario.exe.config
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\bin\Debug\Cierre_Inventario.exe
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\bin\Debug\Cierre_Inventario.pdb
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.exe
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.pdb
+c:\users\fredy flores\source\repos\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.Dgv_Productos.resources
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\bin\Debug\Cierre_Inventario.exe.config
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\bin\Debug\Cierre_Inventario.exe
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\bin\Debug\Cierre_Inventario.pdb
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.csprojResolveAssemblyReference.cache
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.Properties.Resources.resources
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.csproj.GenerateResource.cache
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.exe
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.pdb
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.Cierre_inventario.resources
+C:\Users\Fredy Flores\Desktop\Cierre de Inventarios\Cierre_Inventario\Cierre_Inventario\obj\Debug\Cierre_Inventario.Respaldo_inventario.resources
